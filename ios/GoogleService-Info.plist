@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1000163153346-eh60ikhvo9kvj524gp5jq5p7l31j905q.apps.googleusercontent.com</string>
+	<string>330886512436-j5t3pi6rso4mio810imqacf7t547v2ai.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1000163153346-eh60ikhvo9kvj524gp5jq5p7l31j905q</string>
+	<string>com.googleusercontent.apps.330886512436-j5t3pi6rso4mio810imqacf7t547v2ai</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>330886512436-qkm3grb67i9u5r3l6bmvt0smvii15dle.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDjxRDIuTc6ErANoftU-FtgLBSUxMlLCeA</string>
+	<string>AIzaSyBlT-M__SedaHHiwMk6_IqIFaiK5wOJvIY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1000163153346</string>
+	<string>330886512436</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sixamtech.6amMartStore</string>
+	<string>com.aishopcr.appstore</string>
 	<key>PROJECT_ID</key>
-	<string>ammart-8885e</string>
+	<string>aishopcrappdelivery</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ammart-8885e.appspot.com</string>
+	<string>aishopcrappdelivery.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1000163153346:ios:f05f70ccbf7831ba06b25b</string>
+	<string>1:330886512436:ios:93ebe9df626a298660af61</string>
+	<key>DATABASE_URL</key>
+	<string>https://aishopcrappdelivery-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
